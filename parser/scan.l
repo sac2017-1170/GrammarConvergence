@@ -1,10 +1,4 @@
 %{
-// This scanner is written by James Power, Chris Malloy, and Brian Malloy
-// During Fall, 2016 (some of it was also done in Autumn). 
-// Most of the definitions and specifications were taken from:
-// https://docs.python.org/2.7/reference/index.html
-// All copyright belongs to ?  Don't mess with ?
-
 
 #include <iostream>
 #include "parse.tab.h"
